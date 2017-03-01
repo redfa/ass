@@ -5,7 +5,7 @@ Created on Mar 1, 2017
 '''
 from setuptools import setup
 
-setup(name="assignment3",
+setup(name="ass",
       version="0.1",
       description="LED Testing for Assignment3 in COMP30670 2017",
       url="",
